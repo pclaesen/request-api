@@ -1,0 +1,6 @@
+On request create, an address is shown that has nothing to do with the current linked wallet addresses on Request Finance.
+For example https://pay.request.network/01eb6ba2392160a0d937bb5977f08b03db51552c555ff6eae6a9c608ba2a986e54. Unknow wallet address to user.
+
+request params: `value` = payee address. Change value to _to or _receiver or ...
+
+API key can be copied from Request Finance. Shouldn't be gated behind finance?
