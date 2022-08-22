@@ -8,4 +8,4 @@ request params:
 
 API key can be copied from Request Finance. Shouldn't be gated behind finance?
 
-
+native tokens type: 'eth-input-data', ERC20 type 'erc20-proxy-contract'. This is lacking in the documentation.
